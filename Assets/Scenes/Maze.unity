@@ -2117,7 +2117,7 @@ MonoBehaviour:
   m_Colliders: []
   m_InteractionLayerMask:
     serializedVersion: 2
-    m_Bits: 4294967295
+    m_Bits: 2048
   m_OnFirstHoverEnter:
     m_PersistentCalls:
       m_Calls: []
@@ -3116,7 +3116,7 @@ MonoBehaviour:
   m_InteractionManager: {fileID: 1323499907}
   m_InteractionLayerMask:
     serializedVersion: 2
-    m_Bits: 4294967295
+    m_Bits: 1024
   m_AttachTransform: {fileID: 0}
   m_StartingSelectedInteractable: {fileID: 0}
   m_OnHoverEnter:
@@ -3718,7 +3718,7 @@ MonoBehaviour:
   m_Colliders: []
   m_InteractionLayerMask:
     serializedVersion: 2
-    m_Bits: 4294967295
+    m_Bits: 1024
   m_OnFirstHoverEnter:
     m_PersistentCalls:
       m_Calls: []
@@ -4535,7 +4535,7 @@ MonoBehaviour:
   m_InteractionManager: {fileID: 1323499907}
   m_InteractionLayerMask:
     serializedVersion: 2
-    m_Bits: 4294967295
+    m_Bits: 2048
   m_AttachTransform: {fileID: 0}
   m_StartingSelectedInteractable: {fileID: 0}
   m_OnHoverEnter:
